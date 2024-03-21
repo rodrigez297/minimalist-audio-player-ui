@@ -1,0 +1,29 @@
+{
+  "name": "minimalist-audio-player-ui",
+  "version": "1.0.2",
+  "description": "A minimalist audio player UI built with modern JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigez297/minimalist-audio-player-ui"
+  },
+  "keywords": [
+    "audio",
+    "player",
+    "ui",
+    "minimalist",
+    "howler",
+    "wavesurfer",
+    "sass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "howler": "^2.2.3",
+    "wavesurfer.js": "^5.2.0",
+    "sass": "^1.35.2"
+  }
+}
